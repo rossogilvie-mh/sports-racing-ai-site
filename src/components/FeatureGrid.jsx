@@ -4,17 +4,17 @@ const features = [
   {
     title: "AI-Powered Race Predictions",
     desc: "Leverage advanced machine learning to forecast race outcomes, pit strategies, and driver performance.",
-    img: "/assets/sideviewneonglowingsport260nw1387460150.jpg",
+    img: "https://images.unsplash.com/photo-1511918984145-48de785d4c4e?auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Real-Time Telemetry",
     desc: "Monitor live car data, lap times, and position gaps with instant AI-driven insights and alerts.",
-    img: "/assets/modernsportscardrivinghighspeedmotionblurvibrantcolorsextremeeffectpinkpurpleblueorangecreating352309384.jpg",
+    img: "https://images.unsplash.com/photo-1465447142348-e9952c393450?auto=format&fit=crop&w=600&q=80",
   },
   {
     title: "Performance Heatmaps",
     desc: "Visualize driver and team performance with dynamic, interactive heatmaps and analytics dashboards.",
-    img: "/assets/futuristicracecaracceleratesneontrackgeneratingvibrantglowingtrailsagainstdarknightbackgroundillustratinghigh376449914.jpg",
+    img: "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=600&q=80",
   },
 ];
 
